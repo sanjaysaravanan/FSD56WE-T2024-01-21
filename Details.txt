@@ -1,0 +1,97 @@
+
+Topics:
+
+  if else -> conditional executing conditionally
+  switch-case
+
+  Iteration:
+    going over each element of array/string/object
+
+  iteration of string
+
+  iterating/looping thorugh a array or object:
+      Array:
+        [1, 2, 3, 4, 5]
+
+  String: usefull function
+    split: // split --> splits the string with a delimiter( with a particular character )
+    toLowerCase
+    toUpperCase
+    trim
+
+  Min of an array
+
+  Max of an array
+  
+  Array Reverse, Sorting
+
+  Array Methods:
+    arr.reverse(); 
+
+  String:
+    1. Reverse a String
+    2. Palindrome
+  
+  Factorial of a Number
+      5!(factorial) ---> 5 x 4 x 3 x 2 x 1
+
+      Input: 5
+      Output: 120
+
+  Celcius to Farenheit:
+    (celcius * 9/5) + 32
+
+  Co-Efficient Problem Solution:
+
+    const arr = userInput[0].split(' ');
+
+    const a = +arr[0];
+    const b = +arr[1];
+    const c = +arr[2];
+  
+    const x = (-b + Math.sqrt(((b*b) - (4 * a * c))))/ ( 2 * a );
+    const y = (-b - Math.sqrt(((b*b) - (4 * a * c))))/ ( 2 * a );
+
+    console.log(x.toFixed(2));
+    console.log(y.toFixed(2));
+
+Next Session:
+  Fibonacci Series:
+    0 1 1 2 3 5 8 13 21 34
+
+    Print first five Fibonacci numbers:
+
+    0 1 1 2 3
+
+    0
+    1
+    1
+    2
+    3
+  
+  Array Problems - Basic Algorithms
+    1. Searching
+    2. Loop inside loop
+    3. Sum Of Arrays
+    4. Largest of an array
+    5. Smallest of an array
+    
+  Recursion
+    Iterating array and object:
+      Object or Dictionary ( data storing variable ) 
+        key <-> value pair
+          {
+            name: 'Sanjay',
+            role: 'Developer',
+            desgination: 'Software Engineer'
+          }
+  
+  object iteration in js
+
+Task:
+
+  Install Prettier Extension
+
+  Complete the left problems in Input/Output
+
+  Complete Atleast 10 problems in Absolute beginner
